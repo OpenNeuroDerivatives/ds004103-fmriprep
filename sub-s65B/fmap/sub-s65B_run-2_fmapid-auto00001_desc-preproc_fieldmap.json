@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-s65B_run-2_fmapid-auto00001_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-s65B_run-2_fmapid-auto00001_desc-coeff0_fieldmap.nii.gz",
+    "sub-s65B_run-2_fmapid-auto00001_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00001",
+  "IntendedFor": [
+    "func/sub-s65B_task-OTCG_run-2_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004103-fmriprep/sourcedata/raw/sub-s65B/func/sub-s65B_task-OTCG_run-2_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
